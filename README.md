@@ -14,7 +14,7 @@ Apaixonado por tecnoligia, sou estudante, estou cursando ciência da computaçã
 
 ![Paullo-Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullo-Santos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullo-Santos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullo-Santos)](https://github.com/Paullo-Santos/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia
 
